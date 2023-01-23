@@ -11,7 +11,7 @@ In order to implement a fully functional motion planner for autonomous car in th
 * Static Obstacle avoidance
 * Velocity Profile generation
 
-The control module used in this simulation is similar to the one implemented in [vehicle control](https://github.com/JagtapSagar/Vehicle-Control/) project.
+The control module used in this simulation is similar to the one implemented in [vehicle control](https://github.com/Xiushishen/Self-Driving-Vehicle-Control/) project.
 
 ### Behavioural Planner
 Implemented a state machine that transitions between lane following, deceleration to the stop sign, staying stopped, and back to lane following, when it encounters a stop sign. All the code for the behavioural planner is contained in behavioural_planner.py. Before the state machine transitions are implemented it is important to define parts of a intersection.
