@@ -2,7 +2,6 @@ Motion Planning for Self-Driving Car
 ===
 [behavioural planner](#Behavioural-Planner)//[local planner](#local-planner)//[static obstacle avoidance](#Static-Obstacle-avoidance)//[velocity profile generation](#Velocity-Profile-generation)//[running carla simulator](#Running-Carla-Simulator)//[Simulation](#Simulation)
 
-This folder includes all files from the final project of the [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars?specialization=self-driving-cars) course by University of Toronto.
 This project involves implementation of a motion planner in CARLA simulator in python 3.6.
 
 In order to implement a fully functional motion planner for autonomous car in the CARLA simulator the following modules were implemented:</br>
