@@ -20,7 +20,7 @@ An intersection is divided in three discrete zones represented in the picture be
 * Approaching zone of intersections (red) - area of the road in which the vehicle should begin breaking.
 * At zone (green) - area at intersection where the vehicle should stop or wait.
 * On the intersection (orange) - crossing intersection zone
-<p align="center"><img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Car/blob/main/Images/discrete%20intersection%20zones.png' width="300" height="300"></p>
+<p align="center"><img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Cars/blob/main/Images/discrete%20intersection%20zones.png' width="300" height="300"></p>
 
 The images below illustrate workflow diagram of the state transitions.
 
