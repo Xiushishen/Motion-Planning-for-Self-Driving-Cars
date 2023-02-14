@@ -26,7 +26,7 @@ The images below illustrate workflow diagram of the state transitions.
 
 Track speed | Follow lead vehicle
 :-------------------------:|:-------------------------:
-<img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Car/blob/main/Images/state_transitions_track_speed.png'> | <img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Car/blob/main/Images/state_transitions_follow_lead.png'>
+<img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Cars/blob/main/Images/state_transitions_track_speed.png'> | <img src='https://github.com/Xiushishen/Motion-Planning-for-Self-Driving-Cars/blob/main/Images/state_transitions_follow_lead.png'>
 **Decelerate to stop** | **Stay stopped**
 <img src='https://github.com/JagtapSagar/Motion-Planning-for-Self-Driving-Car/blob/main/Images/state_transitions_decel_to_stop.png'> | <img src='https://github.com/JagtapSagar/Motion-Planning-for-Self-Driving-Car/blob/main/Images/state_transitions_stay_stopped.png'>
 
